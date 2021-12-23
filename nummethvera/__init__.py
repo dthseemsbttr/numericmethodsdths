@@ -6,7 +6,7 @@ from . import otjigants
 from . import slau
 from . import veivletfurie
 
-__version__ = '0.1.5'
+__version__ = '0.1.6'
 __all__ = """
     read_csv
     polinom_chebyshev
