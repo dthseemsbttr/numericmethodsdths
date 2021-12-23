@@ -1,9 +1,13 @@
-from nummethvera.approxinterp import *
-from nummethvera.diffequat import *
-from nummethvera.diffintegr import *
-from nummethvera.matrixop import *
-from nummethvera.otjigants import *
-from nummethvera.slau import *
-from nummethvera.veivletfurie import *
+from . import approxinterp
+from . import diffequat
+from . import diffintegr
+from . import matrixop
+from . import otjigants
+from . import slau
+from . import veivletfurie
 
-__version__ = '0.1.3'
+__version__ = '0.1.4'
+__all__ = """
+    approxinterp.read_csv
+    approxinterp.polinom_chebyshev
+    """
