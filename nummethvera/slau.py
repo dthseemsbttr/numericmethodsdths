@@ -3,7 +3,7 @@ import numpy as np
 import copy
 from fractions import Fraction
 
-def inp_matr():
+def slau_inp_matr():
     """
     Функция возвращает матрицу, введённую пользователем с клавиатуры.
 

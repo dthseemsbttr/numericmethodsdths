@@ -4,7 +4,7 @@ from pywt import wavedec
 import pywt
 import numpy as np
 
-def read_csv(filename):
+def veivletfurie_read_csv(filename):
     
     """
     Функция для получения данных x, y координат из файла .csv

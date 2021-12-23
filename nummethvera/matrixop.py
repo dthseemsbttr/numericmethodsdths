@@ -1,6 +1,6 @@
 import copy
 
-def inp_matr():
+def matrixop_inp_matr():
     """
     Функция возвращает матрицу, введённую пользователем с клавиатуры.
 

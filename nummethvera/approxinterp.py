@@ -4,7 +4,7 @@ import numpy as np
 import math
 import copy
 
-def read_csv(filename):
+def approxinterp_read_csv(filename):
     """
     Функция считывания данных из файла .csv 
 
