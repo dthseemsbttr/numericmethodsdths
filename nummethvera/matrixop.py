@@ -52,7 +52,7 @@ def matrixop_inp_matr():
 
 
 
-def outp_matr(a):
+def matrixop_outp_matr(a):
     """
     Выводит на экран пользователя матрицу a.
 

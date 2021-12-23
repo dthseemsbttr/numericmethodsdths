@@ -81,7 +81,7 @@ def csv_inp_matr(filename):
     return data
     
 
-def outp_matr(a):
+def slau_outp_matr(a):
     """
     Функция для вывода матрицы
 
