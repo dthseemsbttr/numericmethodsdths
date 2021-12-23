@@ -14,7 +14,11 @@ from . import otjigants
 from . import slau
 from . import veivletfurie
 
-__version__ = '0.1.7'
+__version__ = '0.2.0'
+__author__ = "Korotkova Vera"
+__license__ = "MIT"
+__maintainer__ = "Korotkova Vera"
+__email__ = "verakorotkova10@mail.ru"
 __all__ = """
     approxinterp_read_csv
     polinom_chebyshev
